@@ -17,4 +17,4 @@ h1.addEventListener('mouseout', () => h1.style.color='black');
 const pic = document.querySelector('img');
 pic.addEventListener('mouseenter', () => pic.setAttribute('src', 'https://picsum.photos/200/300'));
 
-let anotheVar = 'Another variable to check!'
+let anotheVar = 'Another variable to check Νew!'
